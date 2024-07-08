@@ -42,6 +42,9 @@
 
 <h3 align="center"> 💌 SNS 💌 </h3>
 <p align="center">
+  <a href="https://velog.io/@hyejiining">
+  <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
   <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
   <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
   <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
