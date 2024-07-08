@@ -22,6 +22,8 @@
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 <h3 align="center"> 💌 sns 💌 </h3>
-<img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
-<img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-<img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+<p align="center">
+  <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
+  <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</p>
