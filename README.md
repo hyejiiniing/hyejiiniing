@@ -2,7 +2,6 @@
 
 ## 🔨 Tech stack 🔨
 <h3 align="center"> 🛠 Tech stack 🛠 </h3>
-<p align="center"> Techs that used at the main! </p>
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white">
@@ -21,7 +20,8 @@
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
-  <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
-  <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </p>
+<h3 align="center"> 💌 sns 💌 </h3>
+<img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
+<img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
