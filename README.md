@@ -26,10 +26,6 @@
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
-<p align="center">
-  <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
-</p>
 
 <h3 align="center"> Tools </h3>
 <p align="center">
