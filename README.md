@@ -26,7 +26,7 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-<h3 align="center"> 🛠 Backend & Tools &nbsp;🛠️ </h3>
+<h3 align="center"> 🛠️ Backend & Tools 🛠️ </h3>
 <p align="center">
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
