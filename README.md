@@ -7,10 +7,8 @@
 <p align="center"> 
  <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/jpa-%236DB33F?style=for-the-badge&logo=jpa&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/java-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
