@@ -5,7 +5,6 @@
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </p>
 
@@ -26,6 +25,10 @@
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
 <h3 align="center"> Tools </h3>
