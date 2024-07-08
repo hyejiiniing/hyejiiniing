@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+<img src="https://capsule-render.vercel.app/api?type=모양&color=색상코드&height=높이&section=header&text=텍스트&fontSize=텍스트크기" />
+출처: https://hulrud.tistory.com/3
 <div align="center">
   <img src="https://github.com/hyejiiniing/hyejiiniing/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
 </div>
