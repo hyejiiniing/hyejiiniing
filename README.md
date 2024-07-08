@@ -1,19 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animationfadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
-<h2 align="center"> Tech stack </h2>
+<h2 align="center"> Tech Stack </h2>
+
 <h3 align="center"> Languages </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/R-%23276DC3?style=for-the-badge&logo=r&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
-
-<h3 align="center"> Frameworks </h3>
-<p align="center"> 
-  <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/jsp-%230E83CD?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 </p>
 
 <h3 align="center"> Frontend </h3>
@@ -27,6 +20,10 @@
 
 <h3 align="center"> Backend & Tools </h3>
 <p align="center">
+  <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
+  <img src="https://img.shields.io/badge/jsp-%230E83CD?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
