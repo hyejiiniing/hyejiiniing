@@ -1,6 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animationfadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-## 🔨 Tech Stack 🔨
 <h3 align="center"> 🛠 Languages 🛠 </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
