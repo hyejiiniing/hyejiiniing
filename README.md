@@ -4,9 +4,16 @@
 **hyejiiniing/hyejiiniing** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ## 🔨 Once I've used 🔨
-<img src="https://img.shields.io/badge/#6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=black">
-Here are some ideas to get you started:
-
+<h3 align="center"> 🛠 Tech stack 🛠 </h3>
+<p align="center"> Techs that used at the main! </p>
+<p align="center"> 
+  <img src="https://img.shields.io/badge/springboot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/jpa-%236DB33F?style=for-the-badge&logo=jpa&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src ="https://img.shields.io/badge/java-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/aws-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">
+ </p>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
