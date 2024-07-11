@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white">
 </p>
 
-<h3> Backend & Tools </h3>
+<h3> Backend </h3>
 <p>
   <img src="https://img.shields.io/badge/django-%23092E20?style=for-the-badge&logo=django&logoColor=white">
   <img src="https://img.shields.io/badge/jsp-%23007396?style=for-the-badge&logo=java&logoColor=white">
