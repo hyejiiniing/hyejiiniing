@@ -2,6 +2,7 @@
 
 <p align="center">
     <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200"/>
+    <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
         <p>🎂 Birth 1999.02.05</p>
         <p>💌 E-Mail hyejiining@gmail.com</p>
 </p>
