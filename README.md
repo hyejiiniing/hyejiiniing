@@ -1,9 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<p align="center">
-    <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200"/>
-</p>
-
 ### 🎂 Birth 1999.02.05
 
 ## 🎓 학력
