@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-### 🎂 Birth 1999.02.05
-
 ## 🎓 학력
 
 ### 수원대학교 데이터과학부 
