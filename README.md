@@ -5,6 +5,7 @@
     <div>
         <h3>이혜진</h3>
         <p>🎂 Birth 1999.02.05</p>
+        <p>💌 E-Mail hyejiining@gmail.com</p>
     </div>
 </div>
 
