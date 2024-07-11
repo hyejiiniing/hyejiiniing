@@ -18,7 +18,6 @@
 #### 컴퓨터 활용 능력 2급 (2021.08)
 
 ## 💌 SNS
-<p align="center">
  <a href="mailto:hyejiining@gmail.com">
   <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
  </a>
