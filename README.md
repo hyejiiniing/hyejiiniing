@@ -28,7 +28,7 @@
    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 
-## 💻 Tech Skills
+## 💻 IT 관련 스킬
 <h3 align="center"> Languages </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
