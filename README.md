@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<div style="display: flex; align: center;">
+<div align:"center">
     <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200" style="margin-right: 20px;"/>
     <div>
         <h3>이혜진</h3>
