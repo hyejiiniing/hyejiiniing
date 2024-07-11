@@ -29,8 +29,8 @@
   </a>
 
 ## 💻 IT 관련 스킬
-<h3 align="center"> Languages </h3>
-<p align="center"> 
+<h3> Languages </h3>
+<p> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
