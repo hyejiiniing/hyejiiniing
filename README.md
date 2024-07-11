@@ -1,13 +1,18 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
 
-<div style="display: flex; align-items: center;">
-    <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200" style="margin-right: 20px;"/>
-    <div>
-        <h3>이혜진</h3>
-        <p>🎂 Birth 1999.02.05</p>
-        <p>💌 E-Mail hyejiining@gmail.com</p>
-    </div>
-</div>
+<table>
+  <tr>
+    <td>
+      <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200"/>
+    </td>
+    <td>
+      <h3>이혜진</h3>
+      <p>🎂 Birth 1999.02.05</p>
+      <p>💌 E-Mail hyejiining@gmail.com</p>
+    </td>
+  </tr>
+</table>
+
 
   
 <h3 align="center"> Languages </h3>
