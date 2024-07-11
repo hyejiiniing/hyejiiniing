@@ -5,6 +5,7 @@
     ### 🎂 Birth 1999.02.05
     <p>💌 E-Mail hyejiining@gmail.com</p>
 </p>
+### 🎂 Birth 1999.02.05
 
 <h3 align="center"> Languages </h3>
 <p align="center"> 
