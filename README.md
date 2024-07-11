@@ -51,3 +51,11 @@
    <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </p>
+
+## 🎓 Education 학력
+
+### 수원대학교 데이터과학부
+
+2018.03. ~ 2022.08 (졸업)
+
+데이터과학부
