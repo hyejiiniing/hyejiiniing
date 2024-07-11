@@ -17,6 +17,18 @@
 #### 데이터 분석 준전문가 (ADsP) (2022.06)
 #### 컴퓨터 활용 능력 2급 (2021.08)
 
+## 💌 SNS
+<p align="center">
+ <a href="mailto:hyejiining@gmail.com">
+  <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
+ </a>
+  <a href="https://velog.io/@hyejiining">
+   <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
+  </a>
+  <a href="https://www.instagram.com/hyejiining/?igsh=MTZ5aXcxZzhwMGtzdQ%3D%3D&utm_source=qr">
+   <img src="https://img.shields.io/badge/instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+
 <h3 align="center"> Languages </h3>
 <p align="center"> 
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
