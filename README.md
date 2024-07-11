@@ -1,4 +1,15 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Hyejin's%20GitHub%20Profile&descAlignY=51&descAlign=62)
+<div style="display: flex; align-items: center;">
+    <div style="margin-right: 20px;">
+        <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200"/>
+    </div>
+    <div>
+        <p>🎂 Birth 1999.02.05</p>
+        <p>💌 E-Mail hyejiining@gmail.com</p>
+        <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
+    </div>
+</div>
+
 
 <p align="center">
     <img src="이혜진_증명사진.jpg" alt="이혜진 증명사진" width="200"/>
