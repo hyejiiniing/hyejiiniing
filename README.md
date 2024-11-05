@@ -53,7 +53,6 @@
   <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
  <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
- <img src="https://img.shields.io/badge/dbeaver-%23000?style=for-the-badge&logo=dbeaver&logoColor=white">
 </p>
 
 </p>
@@ -65,6 +64,7 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/git-%23F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/docker-%232496ED?style=for-the-badge&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/dbeaver-%23000?style=for-the-badge&logo=dbeaver&logoColor=white">
 </p>
 
 <h3> RDBMS </h3>
