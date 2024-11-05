@@ -43,6 +43,7 @@
   <img src="https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-%230769AD?style=for-the-badge&logo=jquery&logoColor=white">
+ <img src="https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white">
 </p>
 
 <h3> Backend </h3>
@@ -51,6 +52,10 @@
   <img src="https://img.shields.io/badge/jsp-%23007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/spring%20boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+ <img src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
+ <img src="https://img.shields.io/badge/dbeaver-%23000?style=for-the-badge&logo=dbeaver&logoColor=white">
+</p>
+
 </p>
 
 <h3> Tools </h3>
@@ -66,5 +71,10 @@
 <p>
   <img src="https://img.shields.io/badge/mysql-%234479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-%23F80000?style=for-the-badge&logo=oracle&logoColor=white">
+ <img src="https://img.shields.io/badge/postgresql-%234F5B93?style=for-the-badge&logo=postgresql&logoColor=white">
 </p>
 
+<h3> Mobile </h3>
+<p>
+  <img src="https://img.shields.io/badge/flutter-%02569B?style=for-the-badge&logo=flutter&logoColor=white">
+</p>
