@@ -1,11 +1,5 @@
 
-## 💻 Tech Stack
-<h3> Languages </h3>
-<p>
-  <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-</p>
+
 
 <h3> Frontend </h3>
 <p>
@@ -57,8 +51,8 @@
 ### 💻 Languages & Frameworks
 | Category | Technologies |
 | :--- | :--- |
-| **Languages** | <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-<img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white"> |
+| **Languages** | <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
+<img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white"> <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white"> |
 | **Frontend** | <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"> <img src="https://img.shields.io/badge/zustand-443E38?style=for-the-badge&logo=react&logoColor=white"> |
 | **Backend** | <img src="https://img.shields.io/badge/laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/redis-FF4438?style=for-the-badge&logo=redis&logoColor=white"> |
 | **Canvas & Style** | <img src="https://img.shields.io/badge/konva.js-00AEEF?style=for-the-badge&logo=canvas&logoColor=white"> <img src="https://img.shields.io/badge/fabric.js-FF8C00?style=for-the-badge&logoColor=white"> <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"> <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white"> |
