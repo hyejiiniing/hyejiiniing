@@ -27,7 +27,7 @@
 
 ### 💻 Languages & Frameworks
 | Category | Technologies |
-| :--- | :--- |
+| :----- | :----- |
 | **Languages** | <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white"> <img src="https://img.shields.io/badge/java-%23007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
 <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white"> |
 | **Frontend** | <img src="https://img.shields.io/badge/svelte-%23FF3E00?style=for-the-badge&logo=svelte&logoColor=white"> <img src="https://img.shields.io/badge/ajax-%230A0A0A?style=for-the-badge&logo=ajax&logoColor=white">
