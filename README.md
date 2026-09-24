@@ -1,6 +1,6 @@
 # Hello!
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
