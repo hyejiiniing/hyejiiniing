@@ -1,30 +1,5 @@
 
-## 🎓 학력
-
-### 수원대학교 데이터과학부 
-
-2018.03. ~ 2022.08
-
-## 📚 교육
-
-### KIC Campus
-#### [협업 전문가 멘토링] JAVA기반 백엔드 & AI 빅데이터 분석 양성과정
-2024.01 ~ 2024.07
-
-## 🏅 자격증
-#### 정보처리기사 (필기) (2024.06)
-#### 데이터 분석 준전문가 (ADsP) (2022.06)
-#### 컴퓨터 활용 능력 2급 (2021.08)
-
-## 💌 SNS
- <a href="mailto:hyejiining@gmail.com">
-  <img src="https://img.shields.io/badge/gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
- </a>
-  <a href="https://velog.io/@hyejiining">
-   <img src="https://img.shields.io/badge/velog-%2300C73C?style=for-the-badge&logo=velog&logoColor=white">
-  </a>
-
-## 💻 IT 관련 스킬
+## 💻 Tech Stack
 <h3> Languages </h3>
 <p>
   <img src="https://img.shields.io/badge/python-%233776AB?style=for-the-badge&logo=python&logoColor=white">
