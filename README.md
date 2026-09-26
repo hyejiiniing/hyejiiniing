@@ -1,5 +1,3 @@
-# Hello!
-
 ## 💻 Tech Stack
 
 | Category | Technologies |
